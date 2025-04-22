@@ -9,8 +9,5 @@
         <module name="totppoc" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="totppoc" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
