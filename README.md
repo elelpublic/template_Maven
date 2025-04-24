@@ -6,4 +6,5 @@ The sample app will create a verify Timed One Time Passwords (TOTP).
 ## Run the app
 
 ```bash
-mvn exec:java
+mvn compile exec:java
+```
